@@ -23,8 +23,7 @@ const Hero = () => {
           relative z-10 pr-10'>The New Arrival</span>
           <br />
           <span className='text-coral-red inline-block 
-          mt-3'>Nike </span>
-          Shoes
+          mt-3'>Nike </span> Shoes
         </h1>
         <p className='font-montserrat text-slate-gray
         text-lg leading-8 mt-6 mb-14 sm:max-w-sm'>
