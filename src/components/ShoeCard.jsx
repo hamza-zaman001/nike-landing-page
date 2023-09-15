@@ -9,7 +9,7 @@ const ShoeCard = ({ imgURL, changeBigShoeImage, bigShoeImg }) => {
   
   
     return (
-    <div className={`border-2 rounded-xl
+    <div className={`border-2 rounded-xl hover:scale-110 duration-500
     ${bigShoeImg === imgURL.bigShoe
         ? 'border-coral-red' 
         : 'border-transparent'}
