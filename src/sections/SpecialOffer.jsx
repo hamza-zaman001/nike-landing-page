@@ -31,7 +31,7 @@ const SpecialOffer = () => {
           of exceptional.
         </p>
         <div className='mt-11 flex flex-wrap gap-4'>
-          <Button label='Shop now' iconURL={arrowRight}/>
+          <Button label='Shop now'/>
           <Button label='Learn more'
           backgroundColor='bg-white'
           borderColor='border-slate-gray'
