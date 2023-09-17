@@ -22,7 +22,7 @@ const CustomerReviews = () => {
           <ReviewCard 
             key={review.customerName}
             imgURL={review.imgURL}
-            cutomerName={review.customerName}
+            customerName={review.customerName}
             rating={review.rating}
             feedback={review.feedback}
           />
